@@ -1,0 +1,95 @@
+body{
+    background-color: #063607;
+}
+h1{
+    margin-top: 38px;
+    margin-bottom: -10px;
+    margin-left: 35px;
+    color: white;
+    font-size: 6.4em;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+p{
+    margin-left: 50px;
+    color: white;
+    font-size: 1.5em;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+img{
+    margin-left: 35px;
+    width: 35px;
+    height: 35px;
+}
+nav {
+    margin: 0 auto;
+    border: inset 4.1px;
+    border-color: red indianred;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    width: 540px;
+    background-color: #dde3e9;
+} source{   
+} ul:hover{
+} ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+a{
+    font-size: 1.65em;
+}
+li a {
+    display: flex;
+    flex-flow: row wrap;
+    color: black;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #D3D3D3;
+} .dropbtn {
+    background-color: #333333;
+    color: white;
+    padding: 9px;
+    font-size: 16px;
+    border: none;
+} .dropup {
+    position: relative;
+    display: inline-block;
+} .dropup-content {
+    display: none;
+    position: fixed;
+    bottom: 50px;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+} .dropup-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+} .dropup-content a:hover {
+    background-color: #ddd
+} .dropup:hover .dropup-content {
+    display: block;
+} .dropup:hover .dropbtn {
+    background-color: #111;
+} 
+
+.box_textshadow {
+     text-shadow: 2.5px 3px 0px #ce0b0b;
+}
+.txtshdw {
+     text-shadow: 1.5px 1.3px 0px #696969;
+} .top{
+    
+}
