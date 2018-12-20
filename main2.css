@@ -2,7 +2,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background-color: #063607;
+    background-color: #ce0b0b;
 }
 h1{
     margin-top: 38px;
@@ -92,12 +92,12 @@ li a:hover {
     background-color: #111;
 } 
 .box_textshadow:hover {
-     text-shadow: 5px 8px 0px #ce0b0b;
+     text-shadow: 5px 8px 0px #063607;
 } img{
     margin-right: 5px;
 }
 .box_textshadow {
-     text-shadow: 2.5px 3px 0px #ce0b0b;
+     text-shadow: 2.5px 3px 0px #063607;
 }
 .txtshdw {
      text-shadow: 1.5px 1.3px 0px #696969;
